@@ -44,7 +44,7 @@ draw()
 function draw() {
   ctx.beginPath();
   ctx.arc(centerX, centerY, radius, toRad(0), toRad(360))
-  ctx.fillStyle = `rgb(${33},${33},${33})`
+  ctx.fillStyle = `rgb(${250},${250},${250})`
   ctx.lineTo(centerX, centerY);
   ctx.fill()
 
