@@ -2,11 +2,9 @@ body {
     background-color: #afcdd7;
     width: 600px;
     height: 700px;
-    background: url(../images/pantalon.png);
-    width: 600px;
-    height: 700px;
+    background-image: url(../images/pantalon.png);
     background-repeat: repeat;
-    background-size: 120px;
+    background-size: 136px;
     position: absolute;
 }
 
